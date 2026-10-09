@@ -6,7 +6,7 @@ university = input("University: ")
 phone = int(input("Phone: "))
 
 print("+-------------------+")
-print("|     AKIBA STUDENT CARD       |")
+print(f"|{'AKIBA STUDENT CARD':^25}|")
 print("+-------------------+")
 print(f"| Name: {name}          |")
 print(f"| ID: {id}             |")
